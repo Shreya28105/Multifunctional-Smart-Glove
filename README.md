@@ -1,2 +1,2 @@
 # Multifunctional-Smart-Glove
-A wearable assistive technology that serves as a communication and rehabilitation tool for individuals facing challenges due to paralysis, deafness, and speech impairment.
+The Multifunctional Smart Glove project aims to develop a wearable assistive technology that serves as a communication and rehabilitation tool for individuals facing challenges due to paralysis, deafness, and speech impairment. The smart glove integrates a combination of sensors, actuators, and wireless communication to provide a versatile solution for enhancing the quality of life for users with these conditions
